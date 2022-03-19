@@ -108,6 +108,7 @@ Documentation must be maintained over time. To ensure that this is possible, doc
 
 ### C4: System Context
 
+![Components](http://www.plantuml.com/plantuml/proxy?cache=yes&src=https://raw.githubusercontent.com/Piotr1215/arc42-template/master/media/documentation-components.puml&fmt=png)
 
 ## Runtime View
 
