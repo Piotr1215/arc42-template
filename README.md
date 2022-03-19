@@ -112,7 +112,7 @@ Documentation must be maintained over time. To ensure that this is possible, doc
 
 ## Runtime View
 
-![Components](http://www.plantuml.com/plantuml/proxy?cache=yes&src=https://raw.githubusercontent.com/Piotr1215/arc42-template/master/media/components-architecture.puml&fmt=png)
+![Components](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Piotr1215/arc42-template/master/media/components-architecture.puml&fmt=png)
 
 ## Deployment View
 
